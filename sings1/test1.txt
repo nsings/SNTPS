@@ -1,2 +1,2 @@
-hi 
+THis is merge hi 
 this is sample git testing
