@@ -1,3 +1,7 @@
+<<<<<<< .merge_file_0UOfeO
 this is for merger
 sdhsdghsdgsdsd
+=======
+THis is merge hi 
+>>>>>>> .merge_file_nWVC9N
 this is sample git testing
